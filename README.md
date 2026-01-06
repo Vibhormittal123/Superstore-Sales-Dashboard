@@ -1,9 +1,9 @@
-📊 Super Store Sales Dashboard – Excel Project
+****📊 Super Store Sales Dashboard – Excel Project****
 
 This project is an interactive Excel Sales Dashboard created using the Super Store dataset. The dashboard provides a comprehensive view of sales performance, customer behavior, and regional trends through visually appealing charts and KPIs.
 
-🔍 Project Overview
-
+**🔍 Project Overview
+**
 The dashboard helps stakeholders quickly analyze:
 
 Overall sales performance
@@ -16,7 +16,7 @@ Monthly quantity trends
 
 It is designed with slicers and buttons for easy filtering and user interaction.
 
-📌 Key Features
+**📌 Key Features**
 
 Total Sales, Average Sales, Transactions & Quantity KPIs
 
@@ -36,7 +36,7 @@ Interactive Region Filters (Central, East, South, West)
 
 Year-wise Filters (2014–2017)
 
-🛠 Tools & Techniques Used
+**🛠 Tools & Techniques Used**
 
 Microsoft Excel
 
